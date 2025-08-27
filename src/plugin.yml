@@ -1,0 +1,14 @@
+name: plug
+version: 1.0
+author: joe
+main: com.lol.plug.Main
+description: ok
+commands:
+  start:
+    description: starts a new game
+    usage: /start
+    permisson: bruh
+  cancel:
+    description: cancels current game
+    usage: /cancel
+    permission: bruh
